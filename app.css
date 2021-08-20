@@ -1,0 +1,34 @@
+body{
+    background-image: url(images/mountains-1412683.svg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    text-align: center;
+}
+h1{
+    text-align: center;
+    font-size:50px;
+}
+
+input{
+width: 100%;
+  max-width: 370px;
+  border: none;
+  box-shadow: rgba(70, 19, 19, 0.2) 0px 2px 8px 0px;
+  border-radius: 5px;
+  outline: none;
+}
+
+section{
+    display: flex;
+    height: 75vh;
+    align-items: flex-end;
+    justify-content: space-between;
+    color: white;
+  }
+
+.div1 span {
+    margin: 2px 5px;
+  }
+.div2 span {
+    margin: 2px 15px;
+  }
